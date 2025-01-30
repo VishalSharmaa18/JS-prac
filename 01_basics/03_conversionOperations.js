@@ -22,3 +22,25 @@ console.log(typeof name)
 let someNumber = 18;
 let stringNumber = String(someNumber)
 console.log(typeof stringNumber)
+
+//////////////////// **********************  ////////////////////// 
+
+// let firstName = "Vishal";
+// let lastName = " Sharma";
+
+// console.log(firstName + lastName)
+
+// console.log( 1 + "2")
+// console.log("1" + 2)
+// console.log("1" + 2 + 2)
+// console.log ( 1 + 2 + "2")
+
+// let num1 = num2 = num3 = 5
+// console.log(num2);
+
+let gameCounter = 100;
+
+gameCounter++;
+
+console.log(gameCounter)
+
