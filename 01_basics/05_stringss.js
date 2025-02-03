@@ -20,7 +20,7 @@ console.log(str.slice(31));
 console.log(str.slice(1,10));
 console.log(str.slice(-1,-5));
 
-const str2= "Hellt World";
+ const str2= "Hello Vishal.";
 console.log(str2.slice(-5, -1));
 
 
